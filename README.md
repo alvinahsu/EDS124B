@@ -8,4 +8,4 @@ Week 2:
 
 Breakdance: https://youtu.be/dypnyi2mlpI
 
-Animal Parade: https://youtu.be/iZ4ul-VbQd8
+Animal Parade: https://youtu.be/98iZMN3Wkx0
