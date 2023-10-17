@@ -13,3 +13,5 @@ Animal Parade: https://youtu.be/98iZMN3Wkx0
 Week 3:
 
 Nested Loop: https://youtu.be/lnRUMTYdCyo
+
+Events: https://youtu.be/DRAZGjSkawg
