@@ -15,3 +15,7 @@ Week 3:
 Nested Loop: https://youtu.be/lnRUMTYdCyo
 
 Events: https://youtu.be/DRAZGjSkawg
+
+Week 4:
+
+Variables: https://youtu.be/1cdliqVdsIA
