@@ -19,3 +19,8 @@ Events: https://youtu.be/DRAZGjSkawg
 Week 4:
 
 Variables: https://youtu.be/1cdliqVdsIA
+
+Week 5:
+
+Conditional Repeats: https://youtu.be/CRQCWt0WVGU
+
