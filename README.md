@@ -24,3 +24,6 @@ Week 5:
 
 Conditional Repeats: https://youtu.be/CRQCWt0WVGU
 
+Week 6:
+
+If-Else: https://youtu.be/FDQ6iWiuMuU
