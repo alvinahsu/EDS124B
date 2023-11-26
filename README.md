@@ -31,3 +31,8 @@ If-Else: https://youtu.be/FDQ6iWiuMuU
 Week 7:
 
 Nested-If-Else: https://youtu.be/wuL3tULTrNw
+
+Week 8:
+
+Compound Conditionals: https://youtu.be/BxhjOWQWHsc
+
