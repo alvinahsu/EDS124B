@@ -36,3 +36,6 @@ Week 8:
 
 Compound Conditionals: https://youtu.be/BxhjOWQWHsc
 
+Week 9:
+
+Blocks: https://youtu.be/26ascUwkUt0
