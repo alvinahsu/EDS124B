@@ -39,3 +39,7 @@ Compound Conditionals: https://youtu.be/BxhjOWQWHsc
 Week 9:
 
 Blocks: https://youtu.be/26ascUwkUt0
+
+Week 10:
+
+List: https://youtu.be/575FtR0C-Ik
